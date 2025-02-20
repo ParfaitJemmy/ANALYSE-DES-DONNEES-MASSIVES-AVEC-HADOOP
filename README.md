@@ -166,6 +166,5 @@ Cette étape sera faite dans le document pdf ou nous allons faire de l'analyse d
 - Le dossier mapper_reducer contient tous les scripts des fonctions mapper et reducer codés sur Mapreduce ainsi que sur le langage Python.
 - Le ficher apercu_resultats_terminal.pdf contient un aperçu des résultats des calculs sur le Terminal (PowerShell ou Cmd).
 - les codes d'execution sur Hadoop sont dans le fichier code_execution_hadoop.shellScripts
-- Un rapport a été redigé pour faciliter la compréhension des analyses réalisées et figure dans le fichier ANALYSE_DONNEES_AVEC_HADDOP.docx
 - Le fichier expose_big_data.pptx contient une breve presentation sur le fonctionnement de l'architecture de Hadoop.
 - les fichiers python mapper#.py et reducer#.py contiennent des scripts Python pour réaliser cette analyse.
