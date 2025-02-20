@@ -161,4 +161,3 @@ Cette étape sera faite dans le document pdf ou nous allons faire de l'analyse d
  * https://www.youtube.com/watch?v=knAS0w-jiUk&pp=ygUYY29tbWVudCBpbnN0YWxsw6kgaGFkb29w
  * https://insatunisia.github.io/TP-BigData/tp1.pdf
  * https://chatgpt.com/
-
